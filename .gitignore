@@ -1,0 +1,10 @@
+.venv/
+_Code/media/
+__pycache__/
+DESIGN.md
+.DS_Store
+Preview_with_voice.mp4
+voice_samples/
+.ttsvenv/
+.ttsmodel/
+Backup_AI_voice.mp4
